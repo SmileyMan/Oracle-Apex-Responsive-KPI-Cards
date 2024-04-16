@@ -3,9 +3,9 @@
     "version": "1.0",
     "description": "This template component shows one (or multiple) KPI Cards.",
     "keywords": ["kpi card"],
-    "homepage": "https://github.com/SmileyMan/Oracle-Apex-Responsive-KPI-Cards/tree/main",
+    "homepage": "https://github.com/SmileyMan/Oracle-Apex-Responsive-KPI-Cards",
     "bugs": {
-      "url": "https://github.com/SmileyMan/Oracle-Apex-Responsive-KPI-Cards/tree/main/issues",
+      "url": "https://github.com/SmileyMan/Oracle-Apex-Responsive-KPI-Cards",
       "email": "s.miles1973@gmail.com"
     },
     "license": "MIT",
@@ -26,7 +26,7 @@
         "plugin": {
           "internalName": "MILO.RESPONSIVE_KPI_CARDS",
           "type": "template component",
-          "demo": "",
+          "demo": "https://github.com/SmileyMan/Oracle-Apex-Responsive-KPI-Cards",
           "previewImage": "https://github.com/SmileyMan/Oracle-Apex-Responsive-KPI-Cards/blob/main/assets/Responsive-KPI-Cards.PNG?raw=true"
         }
       }
